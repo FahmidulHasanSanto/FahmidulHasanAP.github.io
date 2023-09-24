@@ -2,6 +2,8 @@
 main:
   - title: "About"
     url: /About/
+    url:/files/CV for emailing.pdf
+  
 
   - title: "Research & Project"
     url: /Research_Project/    
